@@ -12,7 +12,7 @@ NASR BoF was previously discussed as NASR Side Meeting at [IETF 119](https://git
 ## Required Details
 - Status: Non-WG Forming
 - Responsible AD: TBD
-- BOF proponents: Chunchi (Peter) Liu liuchunchi@huawei.com, Diego Lopez diego.r.lopez@telefonica.com, Meiling Chen chenmeiling@chinamobile.com
+- BOF proponents: Chunchi (Peter) Liu liuchunchi@huawei.com, Diego Lopez diego.r.lopez@telefonica.com, Meiling Chen chenmeiling@chinamobile.com, Michael Richardson mcr@sandelman.ca
 - BOF Chairs: TBD
 - Number of people expected to attend: ~100
 - Length of session (1 or 2 hours): 2 hours
