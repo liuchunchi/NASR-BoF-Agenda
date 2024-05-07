@@ -37,5 +37,5 @@ The proponents believe that a new working group is required, but our request is 
       - NASR Use Cases, Problem Statement and Requirements:
          - https://datatracker.ietf.org/doc/draft-liu-nasr-requirements/
    - Relevant Internet-Drafts:
-         - https://datatracker.ietf.org/doc/draft-ietf-rats-ar4si/
-         - https://datatracker.ietf.org/doc/draft-ietf-rats-corim/
+      - https://datatracker.ietf.org/doc/draft-ietf-rats-ar4si/
+      - https://datatracker.ietf.org/doc/draft-ietf-rats-corim/
