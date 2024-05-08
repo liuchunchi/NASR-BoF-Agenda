@@ -13,11 +13,13 @@ NASR BoF was previously discussed as NASR Side Meeting at [IETF 119](https://git
 - Status: Non-WG Forming
 - Responsible AD: TBD
 - BOF proponents: Chunchi (Peter) Liu liuchunchi@huawei.com, Diego Lopez diego.r.lopez@telefonica.com, Meiling Chen chenmeiling@chinamobile.com, Michael Richardson mcr@sandelman.ca
-- BOF Chairs: Luigi Iannone (ggx@gigix.net)
+
+- BOF Chairs: Luigi Iannone (ggx@gigix.net), Michael Richardson, Henk Birkholz
 - Number of people expected to attend: ~100
 - Length of session (1 or 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
    - Chair Conflicts: RATS, LISP
+
    - Technology Overlap: RATS, SAVNET, IDR, SIDROPS
    - Key Participant Conflict: TBD
 
@@ -33,6 +35,9 @@ The proponents believe that a new working group is required, but the request is 
 ## Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
    - Mailing List: https://www.ietf.org/mailman/listinfo/nasr
    - Draft charter: https://github.com/liuchunchi/NASR-charter
-   - Relevant Internet-Drafts:
+   - Ongoing Internet-Drafts:
       - NASR Use Cases, Problem Statement and Requirements:
          - https://datatracker.ietf.org/doc/draft-liu-nasr-requirements/
+   - Relevant Internet-Drafts:
+      - https://datatracker.ietf.org/doc/draft-ietf-rats-ar4si/
+      - https://datatracker.ietf.org/doc/draft-ietf-rats-corim/
