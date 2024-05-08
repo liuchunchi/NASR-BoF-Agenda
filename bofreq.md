@@ -14,12 +14,11 @@ NASR BoF was previously discussed as NASR Side Meeting at [IETF 119](https://git
 - Responsible AD: TBD
 - BOF proponents: Chunchi (Peter) Liu liuchunchi@huawei.com, Diego Lopez diego.r.lopez@telefonica.com, Meiling Chen chenmeiling@chinamobile.com, Michael Richardson mcr@sandelman.ca
 
-- BOF Chairs: Luigi Iannone (ggx@gigix.net), Michael Richardson, Henk Birkholz
+- BOF Chairs: Luigi Iannone (ggx@gigix.net), Michael Richardson (mcr@sandelman.ca), Henk Birkholz (henk.birkholz@ietf.contact),... (Or others that ADs recommend)
 - Number of people expected to attend: ~100
 - Length of session (1 or 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
-   - Chair Conflicts: RATS, LISP
-
+   - Chair Conflicts: RATS, LISP, OPSAWG, IOTOPS
    - Technology Overlap: RATS, SAVNET, IDR, SIDROPS
    - Key Participant Conflict: TBD
 
@@ -41,3 +40,14 @@ The proponents believe that a new working group is required, but the request is 
    - Relevant Internet-Drafts:
       - https://datatracker.ietf.org/doc/draft-ietf-rats-ar4si/
       - https://datatracker.ietf.org/doc/draft-ietf-rats-corim/
+      - https://datatracker.ietf.org/doc/draft-lopez-opsawg-yang-provenance/
+      - https://datatracker.ietf.org/doc/draft-voit-rats-trustworthy-path-routing/
+      - https://datatracker.ietf.org/doc/draft-ietf-sfc-proof-of-transit/
+      - https://datatracker.ietf.org/doc/draft-liu-vcpot/
+
+## Previous Discussions
+   - Path Validation Side Meeting @[IETF 118](https://github.com/liuchunchi/nasr_side_meeting/tree/afeecf7f3ac5a5a796e3e7c9eae14d7a4a41c757/IETF%20118%20Path%20Validation%20Side%20Meeting%20Archive).
+   - NASR Side Meeting @[IETF 119](https://github.com/liuchunchi/nasr_side_meeting)
+   - First Chartering Team Meeting, 4.17 [Minutes](https://mailarchive.ietf.org/arch/msg/nasr/P1qOcLGKzFE9izLwtpKB-Crsg9M/)
+   - Second Chartering Team Meeting, 5.15, Upcoming
+   - Interim Meeting, 6.12, Upcoming
