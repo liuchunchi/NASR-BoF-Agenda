@@ -1,16 +1,12 @@
-# NASR-BoF-Agenda (Tentative, if approved)
+# NASR-BoF-Agenda
 Repo for IETF 120 NASR BoF Agenda and Materials
 
-- Problem Statement, Motivation
-- Drivers and Operator Needs
-- Goals and Proposals
-  - General goals
-  - Proposed deliverables and milestones
-- Relavent Technology and Drafts
-  - Dependencies
-  - Relavant works
+- Chair Introduction
+- Technical Presentations
+  - Motivation and Use Cases
+  - Problem Statement
+  - Initial Solutions
 - Open Discussion
-  - Problem
-  - Charter and Scope
+- Closure
 
 BoF Request submitted at https://datatracker.ietf.org/doc/bofreq-liu-nasr/
