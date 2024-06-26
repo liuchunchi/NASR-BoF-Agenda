@@ -3,8 +3,8 @@ Repo for IETF 120 NASR BoF Agenda and Materials
 
 - Chair Introduction
 - Technical Presentations
-  - Motivation and Use Cases
-  - Problem Statement
+  - Motivation and Problem Statement
+  - Use Cases
   - Initial Solutions
 - Open Discussion
 - Closure
