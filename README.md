@@ -9,4 +9,6 @@ Repo for IETF 120 NASR BoF Agenda and Materials
 - Open Discussion
 - Closure
 
-BoF Request submitted at https://datatracker.ietf.org/doc/bofreq-liu-nasr/
+
+======
+Archived-- please refer to the [Datatracker](https://datatracker.ietf.org/doc/agenda-120-nasr/), [BoF Request](https://datatracker.ietf.org/doc/bofreq-liu-nasr/)
